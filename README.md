@@ -62,9 +62,8 @@ An ecommerce website developed using React for the frontend, Node.js for the bac
 
 Feel free to reach out and connect with me on:
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-profile)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/yosi-biton-222888272)
+
 
 Let's connect, share knowledge, and grow together in the exciting field of computer science!
 
