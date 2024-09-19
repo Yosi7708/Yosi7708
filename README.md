@@ -51,9 +51,6 @@ Built from scratch, this tool applies filters to images fetched from social medi
 Automated messaging system for sending personalized WhatsApp messages based on user data.
 - **Tech Stack**: Java, Selenium, Swing
 
-#### 🛒 E-Commerce Website
-Full-stack e-commerce platform for managing products and orders.
-- **Tech Stack**: React, Node.js, MongoDB
 
 ---
 
